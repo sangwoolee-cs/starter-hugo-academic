@@ -14,7 +14,7 @@ last_name: Lee
 superuser: true
 
 # Role/position/tagline
-role: Lead Technical Coordinator
+role: Executive Director
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -49,22 +49,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'mailto:sang.woo.lee@navercorp.com'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/gcushen
+    link: https://scholar.google.co.kr/citations?user=TMTTMuQAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/sang-woo-lee-60038b149/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -79,7 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-During the last few years, he had been the leader of Language Research team, which is the NLP group of [NAVER AI LAB](https://naver-career.gitbook.io/en/publications/all), and the technical leader of Conversation team, which was a NLP modeling group of NAVER CLOVA for chatbots, callbots, and [HyperCLOVA](https://naver-ai-now.kr/).
+He currently works for large language models ([HyperCLOVA X](https://arxiv.org/abs/2404.01954)) and their applications. He serves as an executive director at NAVER Cloud.  
+Previously, he was the leader of Language Research team, which is the NLP group of [NAVER AI LAB](https://naver-career.gitbook.io/en/publications/all), and the technical leader of Conversation team, which was a NLP modeling group of NAVER CLOVA for chatbots, callbots, and [HyperCLOVA](https://naver-ai-now.kr/).
 When he joined NAVER CLOVA in July 2018, he founded and became the first member of DUET, an AI ARS project which is now extended to [Contact Center AI (CCAI)](https://clova.ai/aicontactcenter) project (AiCall, CareCall, ...) in NAVER and Line.
 
 {style="text-align: justify;"}
