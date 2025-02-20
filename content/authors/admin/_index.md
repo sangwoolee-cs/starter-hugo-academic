@@ -14,11 +14,11 @@ last_name: Lee
 superuser: true
 
 # Role/position/tagline
-role: Executive Director
+# role: Executive Director
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: NAVER Cloud
+# organizations:
+#   - name: NAVER Cloud
 #    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -71,7 +71,8 @@ email: ''
 highlight_name: true
 ---
 
-He currently works for large language models ([HyperCLOVA X](https://arxiv.org/abs/2404.01954)) and their applications and serves as an executive director at NAVER Cloud. Previously, he was the leader of Language Research team, which is the NLP group of [NAVER AI LAB](https://naver-career.gitbook.io/en/publications/all), and the technical leader of Conversation team, which was a NLP modeling group of NAVER CLOVA for chatbots, callbots, and [HyperCLOVA](https://naver-ai-now.kr/).
+He previously worked on large language models ([HyperCLOVA X](https://arxiv.org/abs/2404.01954)) and their applications and serves as an executive director at NAVER Cloud. Before that, he was the leader of Language Research team, which is the NLP group of [NAVER AI LAB](https://naver-career.gitbook.io/en/publications/all), and the technical leader of Conversation team, which was a NLP modeling group of NAVER CLOVA for chatbots, callbots, and [HyperCLOVA](https://naver-ai-now.kr/).
+# He currently works for large language models ([HyperCLOVA X](https://arxiv.org/abs/2404.01954)) and their applications and serves as an executive director at NAVER Cloud. Previously, he was the leader of Language Research team, which is the NLP group of [NAVER AI LAB](https://naver-career.gitbook.io/en/publications/all), and the technical leader of Conversation team, which was a NLP modeling group of NAVER CLOVA for chatbots, callbots, and [HyperCLOVA](https://naver-ai-now.kr/).
 When he joined NAVER CLOVA in July 2018, he founded and became the first member of DUET, an AI ARS project which is now extended to [Contact Center AI (CCAI)](https://clova.ai/aicontactcenter) project (AiCall, CareCall, ...) in NAVER and Line.
 
 {style="text-align: justify;"}
