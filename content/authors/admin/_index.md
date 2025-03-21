@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sang.woo.lee@navercorp.com'
+    link: 'mailto:sangwoolee.cs@gmail.com'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.kr/citations?user=TMTTMuQAAAAJ
