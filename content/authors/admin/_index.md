@@ -61,7 +61,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/cv_swlee_250124.pdf
+    link: uploads/cv_swlee_250614.pdf
 #    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
